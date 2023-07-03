@@ -7,5 +7,5 @@
         'name' => $name
     ];
     updateData($data);
-    header("Location: http://localhost/learn_pdo/index.php");
+    header("Location: http://localhost/learn_php_pdo/category/index.php");
 ?>
